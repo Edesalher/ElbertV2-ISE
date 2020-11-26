@@ -1,0 +1,8 @@
+*/*
+!*.xise
+!*.vhd
+!*.ucf
+!*.bin
+!*.bit
+!elbertconfig.py
+!readme.txt
